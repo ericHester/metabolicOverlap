@@ -1,4 +1,4 @@
-MFBA
+metabolicOverlap
 ====
 
 Installation instructions
